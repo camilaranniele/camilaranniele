@@ -9,6 +9,7 @@
 - <p>Meu objetivo, como profissional e eterna estudante, é aprimorar e aplicar, cada vez mais, conhecimentos na área da programação.</p>
 - <p>Estudei na Trybe, escola que te ensina a programar, a aprender e a trabalhar, para me tornar uma Desenvolvedora Web full-stack. Além disso faço graduação no curso de Sistemas de informação</p>
 - <p>Sou dedicada e tenho foco, sempre buscando aprender coisas novas!</p>
+- <p>Atualmente estou aprofundando conhecimentos em Python e aprendendo Django.</p>
 <br>
 
 ------------------
@@ -17,6 +18,9 @@
 <section align="center"> 
   <a href="https://www.linkedin.com/in/camila-ranniele/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </section>
+
+<p align="center">Email rannielecamsil@gmail.com</p>
+<br>
 
 ### Status:
 
