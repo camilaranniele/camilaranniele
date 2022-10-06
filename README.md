@@ -23,7 +23,11 @@
 <br>
 
 ### Status:
-
+<section align="center">
+  <a href="https://github.com/camilaranniele/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilaranniele&show_icons=true&theme=highcontrast&count_private=true"/>   
+  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaranniele&langs_count=10&theme=highcontrast&layout=compact"/>
+  </section>
 
 <br><br>
 
