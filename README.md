@@ -16,7 +16,7 @@
 ### Redes Sociais:
  
 <section align="center"> 
-  <a href="https://www.linkedin.com/in/camila-ranniele/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/camila-ranniele" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </section>
 
 <p align="center">Email rannielecamsil@gmail.com</p>
@@ -25,7 +25,7 @@
 ### Status:
 
 <section align="center">
-  <a href="https://github.com/camilaranniele">
+  <a href="https://github.com/camilaranniele/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilaranniele&show_icons=true&theme=highcontrast&count_private=true"/>   
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaranniele&langs_count=10&theme=highcontrast&layout=compact"/>
   </section>
