@@ -25,9 +25,9 @@
 ### Status:
 <section align="center">
   <a href="https://github.com/camilaranniele/">
-  <p><p><img align="left" height="180px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilaranniele&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="camilaranniele" /></p>
+  <p><p><img align="left" height="180px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilaranniele&show_icons=true&locale=en&layout=compact&theme=dracula" alt="camilaranniele" /></p>
 
-<p>&nbsp;<img align="center" height="180px" width="50%" src="https://github-readme-stats.vercel.app/api?username=camilaranniele&show_icons=true&locale=en&theme=highcontrast&count_private=true" alt="camilaranniele" /></p></p>
+<p>&nbsp;<img align="center" height="180px" width="50%" src="https://github-readme-stats.vercel.app/api?username=camilaranniele&show_icons=true&locale=en&theme=dracula&count_private=true" alt="camilaranniele" /></p></p>
   </section>
 
 <br><br>
